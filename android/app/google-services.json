@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541558959292",
+    "project_id": "ticket-management-app-b8052",
+    "storage_bucket": "ticket-management-app-b8052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541558959292:android:e49851b17ac9588439f4b9",
+        "android_client_info": {
+          "package_name": "com.nocodeui.ticketManagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWkgtj5sCka1rRZm5vioKRG5UnfRLxe5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

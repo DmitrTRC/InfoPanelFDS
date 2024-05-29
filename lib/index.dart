@@ -1,0 +1,25 @@
+// Export pages
+export '/all_pages/main_all_tasks/main_all_tasks_widget.dart'
+    show MainAllTasksWidget;
+export '/all_pages/main_members/main_members_widget.dart'
+    show MainMembersWidget;
+export '/all_pages/main_profile/main_profile_widget.dart'
+    show MainProfileWidget;
+export '/all_pages/main_dashboard/main_dashboard_widget.dart'
+    show MainDashboardWidget;
+export '/all_pages/authenication/authenication_widget.dart'
+    show AuthenicationWidget;
+export '/all_pages/edit_profile/edit_profile_widget.dart'
+    show EditProfileWidget;
+export '/all_pages/task_details_mobile/task_details_mobile_widget.dart'
+    show TaskDetailsMobileWidget;
+export '/all_pages/main_notifications/main_notifications_widget.dart'
+    show MainNotificationsWidget;
+export '/all_pages/forgot_password/forgot_password_widget.dart'
+    show ForgotPasswordWidget;
+export '/all_pages/create_company/create_company_widget.dart'
+    show CreateCompanyWidget;
+export '/all_pages/profile_page_other/profile_page_other_widget.dart'
+    show ProfilePageOtherWidget;
+export '/all_pages/create_task_mobile/create_task_mobile_widget.dart'
+    show CreateTaskMobileWidget;
